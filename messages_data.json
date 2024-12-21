@@ -1,0 +1,50 @@
+[
+    {
+        "conversation_id": "1-2",
+        "users": [
+            "1",
+            2
+        ],
+        "messages": [
+            {
+                "sender_id": "1",
+                "message": "hello test from admin",
+                "sent_at": "2024-12-21T09:49:44.240Z"
+            },
+            {
+                "sender_id": "1",
+                "message": "Good evening",
+                "sent_at": "2024-12-21T10:06:06.320Z"
+            },
+            {
+                "sender_id": "2",
+                "message": "Good evening din po",
+                "sent_at": "2024-12-21T10:09:07.304Z"
+            },
+            {
+                "sender_id": "1",
+                "message": "kmusta?",
+                "sent_at": "2024-12-21T10:09:12.952Z"
+            },
+            {
+                "sender_id": "2",
+                "message": "okay lang naman po",
+                "sent_at": "2024-12-21T10:09:17.632Z"
+            }
+        ]
+    },
+    {
+        "conversation_id": "1-3",
+        "users": [
+            "1",
+            3
+        ],
+        "messages": [
+            {
+                "sender_id": "1",
+                "message": "hello test1 from admin",
+                "sent_at": "2024-12-21T09:51:03.240Z"
+            }
+        ]
+    }
+]
